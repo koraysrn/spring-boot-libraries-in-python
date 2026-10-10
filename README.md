@@ -60,7 +60,7 @@ spring-boot-libraries-in-python/
 | # | Library | Spring Boot Equivalent | Status |
 |---|---|---|---|
 | 01 | spring-boot-starter-web | REST API, web server, JSON | Completed |
-| 02 | spring-boot-starter-security | Authentication and authorization | Planned |
+| 02 | spring-boot-starter-security | Authentication and authorization | Completed |
 | 03 | spring-boot-starter-data-jpa | Database access (JPA/Hibernate) | Planned |
 | 04 | spring-boot-starter-validation | Data validation | Planned |
 | 05 | flyway | Database schema version control | Planned |
