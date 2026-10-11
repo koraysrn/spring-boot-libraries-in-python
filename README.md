@@ -75,7 +75,7 @@ spring-boot-libraries-in-python/
 | 14 | spring-boot-maven-plugin | Executable packaging | Completed |
 | 15 | jacoco | Code coverage | Completed |
 | 16 | pitest | Mutation testing | Completed |
-| 17 | spring-boot-starter-parent | Version management | Planned |
+| 17 | spring-boot-starter-parent | Version management | Completed |
 
 ## Testing Philosophy
 
