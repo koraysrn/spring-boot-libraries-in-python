@@ -63,7 +63,7 @@ spring-boot-libraries-in-python/
 | 02 | spring-boot-starter-security | Authentication and authorization | Completed |
 | 03 | spring-boot-starter-data-jpa | Database access (JPA/Hibernate) | Completed |
 | 04 | spring-boot-starter-validation | Data validation | Completed |
-| 05 | flyway | Database schema version control | Planned |
+| 05 | flyway | Database schema version control | Completed |
 | 06 | postgresql | PostgreSQL driver | Planned |
 | 07 | shedlock | Distributed lock for scheduled jobs | Planned |
 | 08 | commons-csv | CSV read/write | Planned |
