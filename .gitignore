@@ -6,7 +6,5 @@ __pycache__/
 .coverage
 htmlcov/
 
-# Personal notes (not part of the repository)
-spring-boot-kutuphaneleri.md
-spring-boot-kutuphanelerinin-python-karsiliklari.md
-spring-boot-kutuphaneleri-todo-test-rehberi.md
+# Personal notes in the project root
+spring-boot-*.md
