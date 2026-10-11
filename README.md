@@ -69,7 +69,7 @@ spring-boot-libraries-in-python/
 | 08 | commons-csv | CSV read/write | Completed |
 | 09 | lombok | Boilerplate code generation | Completed |
 | 10 | h2 | In-memory test database | Completed |
-| 11 | spring-boot-starter-test | Testing tools | Planned |
+| 11 | spring-boot-starter-test | Testing tools | Completed |
 | 12 | spring-security-test | Security testing tools | Planned |
 | 13 | archunit | Architecture rule tests | Planned |
 | 14 | spring-boot-maven-plugin | Executable packaging | Planned |
