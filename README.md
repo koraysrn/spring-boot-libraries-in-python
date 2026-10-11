@@ -74,7 +74,7 @@ spring-boot-libraries-in-python/
 | 13 | archunit | Architecture rule tests | Completed |
 | 14 | spring-boot-maven-plugin | Executable packaging | Completed |
 | 15 | jacoco | Code coverage | Completed |
-| 16 | pitest | Mutation testing | Planned |
+| 16 | pitest | Mutation testing | Completed |
 | 17 | spring-boot-starter-parent | Version management | Planned |
 
 ## Testing Philosophy
