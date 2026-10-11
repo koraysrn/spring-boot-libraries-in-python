@@ -68,7 +68,7 @@ spring-boot-libraries-in-python/
 | 07 | shedlock | Distributed lock for scheduled jobs | Completed |
 | 08 | commons-csv | CSV read/write | Completed |
 | 09 | lombok | Boilerplate code generation | Completed |
-| 10 | h2 | In-memory test database | Planned |
+| 10 | h2 | In-memory test database | Completed |
 | 11 | spring-boot-starter-test | Testing tools | Planned |
 | 12 | spring-security-test | Security testing tools | Planned |
 | 13 | archunit | Architecture rule tests | Planned |
