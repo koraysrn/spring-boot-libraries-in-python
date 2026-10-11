@@ -71,7 +71,7 @@ spring-boot-libraries-in-python/
 | 10 | h2 | In-memory test database | Completed |
 | 11 | spring-boot-starter-test | Testing tools | Completed |
 | 12 | spring-security-test | Security testing tools | Completed |
-| 13 | archunit | Architecture rule tests | Planned |
+| 13 | archunit | Architecture rule tests | Completed |
 | 14 | spring-boot-maven-plugin | Executable packaging | Planned |
 | 15 | jacoco | Code coverage | Planned |
 | 16 | pitest | Mutation testing | Planned |
