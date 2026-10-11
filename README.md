@@ -66,7 +66,7 @@ spring-boot-libraries-in-python/
 | 05 | flyway | Database schema version control | Completed |
 | 06 | postgresql | PostgreSQL driver | Completed |
 | 07 | shedlock | Distributed lock for scheduled jobs | Completed |
-| 08 | commons-csv | CSV read/write | Planned |
+| 08 | commons-csv | CSV read/write | Completed |
 | 09 | lombok | Boilerplate code generation | Planned |
 | 10 | h2 | In-memory test database | Planned |
 | 11 | spring-boot-starter-test | Testing tools | Planned |
