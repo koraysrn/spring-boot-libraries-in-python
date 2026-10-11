@@ -70,7 +70,7 @@ spring-boot-libraries-in-python/
 | 09 | lombok | Boilerplate code generation | Completed |
 | 10 | h2 | In-memory test database | Completed |
 | 11 | spring-boot-starter-test | Testing tools | Completed |
-| 12 | spring-security-test | Security testing tools | Planned |
+| 12 | spring-security-test | Security testing tools | Completed |
 | 13 | archunit | Architecture rule tests | Planned |
 | 14 | spring-boot-maven-plugin | Executable packaging | Planned |
 | 15 | jacoco | Code coverage | Planned |
